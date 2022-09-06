@@ -1,0 +1,41 @@
+D:\Serial RS-232v3\Serial RS-232\bin\Release\Serial RS-232.exe.config
+D:\Serial RS-232v3\Serial RS-232\bin\Release\Serial RS-232.exe
+D:\Serial RS-232v3\Serial RS-232\bin\Release\Serial RS-232.pdb
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial RS-232.csproj.AssemblyReference.cache
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial_RS_232.Form1.resources
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial_RS_232.Properties.Resources.resources
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial RS-232.csproj.GenerateResource.cache
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial RS-232.csproj.CoreCompileInputs.cache
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial RS-232.exe
+D:\Serial RS-232v3\Serial RS-232\obj\Release\Serial RS-232.pdb
+D:\Serial RS-232v5\Serial RS-232\bin\Release\Serial RS-232.exe.config
+D:\Serial RS-232v5\Serial RS-232\bin\Release\Serial RS-232.exe
+D:\Serial RS-232v5\Serial RS-232\bin\Release\Serial RS-232.pdb
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial RS-232.csproj.AssemblyReference.cache
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial_RS_232.Form1.resources
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial_RS_232.Properties.Resources.resources
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial RS-232.csproj.GenerateResource.cache
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial RS-232.csproj.CoreCompileInputs.cache
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial RS-232.exe
+D:\Serial RS-232v5\Serial RS-232\obj\Release\Serial RS-232.pdb
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\bin\Release\Serial RS-232.exe.config
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\bin\Release\Serial RS-232.exe
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\bin\Release\Serial RS-232.pdb
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial RS-232.csproj.AssemblyReference.cache
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial_RS_232.Form1.resources
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial_RS_232.Properties.Resources.resources
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial RS-232.csproj.GenerateResource.cache
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial RS-232.csproj.CoreCompileInputs.cache
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial RS-232.exe
+C:\Users\urdan\source\repos\Serial RS-232v6\Serial RS-232\obj\Release\Serial RS-232.pdb
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\bin\Release\Serial RS-232.exe.config
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\bin\Release\Serial RS-232.exe
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\bin\Release\Serial RS-232.pdb
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial RS-232.csproj.AssemblyReference.cache
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial RS-232.csproj.SuggestedBindingRedirects.cache
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial_RS_232.Form1.resources
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial_RS_232.Properties.Resources.resources
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial RS-232.csproj.GenerateResource.cache
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial RS-232.csproj.CoreCompileInputs.cache
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial RS-232.exe
+C:\Users\urdan\source\repos\Serial RS-232v7\Serial RS-232\obj\Release\Serial RS-232.pdb
